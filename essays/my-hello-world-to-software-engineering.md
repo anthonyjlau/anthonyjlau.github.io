@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/javascript.jpg">
 
 ## From Trouble Free to Tribulations 
 
