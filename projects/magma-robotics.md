@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Magma Robotics Team 3008
-permalink: projects/micromouse
+permalink: projects/magma-robotics
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
