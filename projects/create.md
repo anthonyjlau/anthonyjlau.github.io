@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: CreatePT-Project: Who Let The Dogs Out?
-permalink: projects/createptproject
+permalink: projects/create
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
