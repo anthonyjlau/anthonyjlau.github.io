@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny right spaced image" src="../images/javascript.jpg">
+<img class="ui large image" src="../images/javascript.jpg">
 
 ## From Trouble Free to Tribulations 
 
