@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: CreatePT-Project: Who Let The Dogs Out?
+image: images/cotton-square.png
+title: Create PT Project: Who Let The Dogs Out?
 permalink: projects/create
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
   - Java
   - Game Development
-summary: A video game that I developed for my AP Computer Science exam.
+summary: A text adventure game I developed for ICS 313.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
