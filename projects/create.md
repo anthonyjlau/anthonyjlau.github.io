@@ -14,22 +14,8 @@ summary: A side-scrolling game I developed for my AP Computer Science Principles
 
 <img class="ui large image" src="..images/creatept-project.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The AP Computer Science Principles exam has two parts to it. The first part assesses your knowledge of overall concepts in computer science and understanding of computational thinking. The second part has the student develop a computer program of their choice and analyze that program. For the second part of the exam, I created a video game titled “Who Let The Dogs Out?”. The gameplay consisted of a kid trying to round up dogs by shooting nets at them. It sounds cruel, but that was the only way for that one kid to get all of the dogs. If a dog escapes by reaching the edge of the screen, it is game over. As for the analysis of the program, I was asked to describe certain aspects of the program’s code such as what does the program do, how does the program take inputs, how does the program use arrays, functions, loops, and so on. I developed the game using a Java IDE called Greenfoot. Since there were no specifications on how the program should be made, I went with Greenfoot because I had been introduced to it the year before and was comfortable using it.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+This project was my first experience at having total control of what program I wanted to create. Being given full reign of my project seemed nice, however I was lost trying to think of what I even wanted to do. To get over this, I started with a basic layout of a game then added more to it when I thought of something I wanted to do. Just putting something down helped me get more creative with my thinking and come up with fresh ideas. This strategy of laying out a basic format then adding more has helped me throughout my academic career and it will continue to be a valuable skill.
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
