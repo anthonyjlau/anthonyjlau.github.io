@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/creatpt-project.png
+image: images/creatpt-project-square.png
 title: Create PT Project - Who Let The Dogs Out?
 permalink: projects/create
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A side-scrolling game I developed for my AP Computer Science Principles exam
 ---
 
-<img class="ui large image" src="..images/creatept-project.png">
+<img class="ui large image" src="../images/creatept-project.png">
 
 The AP Computer Science Principles exam has two parts to it. The first part assesses your knowledge of overall concepts in computer science and understanding of computational thinking. The second part has the student develop a computer program of their choice and analyze that program. For the second part of the exam, I created a video game titled “Who Let The Dogs Out?”. The gameplay consisted of a kid trying to round up dogs by shooting nets at them. It sounds cruel, but that was the only way for that one kid to get all of the dogs. If a dog escapes by reaching the edge of the screen, it is game over. As for the analysis of the program, I was asked to describe certain aspects of the program’s code such as what does the program do, how does the program take inputs, how does the program use arrays, functions, loops, and so on. I developed the game using a Java IDE called Greenfoot. Since there were no specifications on how the program should be made, I went with Greenfoot because I had been introduced to it the year before and was comfortable using it.
 
