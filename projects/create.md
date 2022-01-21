@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/creatpt-project-square.png
+image: images/creatept-project-square.png
 title: Create PT Project - Who Let The Dogs Out?
 permalink: projects/create
 # All dates must be YYYY-MM-DD format!
