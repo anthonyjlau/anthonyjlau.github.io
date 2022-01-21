@@ -5,7 +5,7 @@ image: images/cotton-square.png
 title: Customer Information Database
 permalink: projects/customer-info
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2022-01-20
 labels:
   - C++
 summary: A text adventure game I developed for ICS 313.
