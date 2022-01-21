@@ -21,7 +21,7 @@ I spent 4 years being part of my high school robotics team, Magma Robotics. In o
 
 There was more to the robotics team than just building a robot and competing. Our team was also a non profit organization where the money we earned goes to getting robot parts and funding trips. The main products our team sold were Bristlebots and 3D wooden puzzles. To make the wooden puzzles, I learned how to use a laser printer. To sell these products I learned how to talk with customers at craft fairs. To get our name out there in the community we did robot demonstrations at schools and at public events as well as doing community service like a beach cleanup. These events were also organized and planned out by us. We did all of these things so that the team can sustain itself and continue to live on.
 
-<img class="ui large image" src="..images/canadatournament.jpg">
+<img class="ui large image" src="../images/canadatournament.jpg">
 
 Being on the robotics team has taught me so many invaluable things. Not only did I learn many STEM related skills, I also learned leadership, cooperation, organization, and entrepreneurship. I also got to travel to Canada and Taiwan to compete and meet other teams from around the world and learn from their advice. There are many experiences that I gained from the robotics team that made me grow and become a more developed person. 
 
