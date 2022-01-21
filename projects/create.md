@@ -2,21 +2,19 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: CreatePT-Project: Who Let The Dogs Out?
+permalink: projects/createptproject
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2022-01-20
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Game Development
+summary: A video game that I developed for my AP Computer Science exam.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This game was made for my AP Computer Sceince Principles class during the Create Performance Task of the AP exam. 
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
