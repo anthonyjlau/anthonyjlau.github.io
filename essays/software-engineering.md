@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My "Hello World" to Software Engineering
+title: A Familiar Yet Unknown World
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
