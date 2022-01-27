@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Journey to Becoming a Software Engineer
+title: The Quest of Becoming a Software Engineer
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
@@ -9,6 +9,8 @@ labels:
   - Javascript
   - Professional Portfolio
 ---
+
+<img class="ui large image" src="../images/softwareengi.jpg">
 
 ## How It Started
 
