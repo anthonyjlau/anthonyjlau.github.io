@@ -7,6 +7,8 @@ labels:
   - Stack Overflow
 ---
 
+<img class="ui large image" src="../images/smartquestions.png">
+
 ## Giving Questions Some Education
 
 As I start to work on more complex projects for ICS 314, there are bound to be problems that require help from the people of the internet. In order to get good responses on how to solve these problems, I need to know how to ask smart questions. A smart question is concise, descriptive, and shows the ways I have tried to solve or research the problem. It also includes an easy way to respond, a clear goal, and courtesy. The following questions are examples of a bad question then a smart question. 
