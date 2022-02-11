@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui large image" src="../images/smartquestions.png">
+<img class="ui large image" src="../images/eslintlogo.png">
 
 ## My First Time Hanging Out with ESLint
 
