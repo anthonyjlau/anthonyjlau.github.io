@@ -26,7 +26,7 @@ I am sure that many of my struggles now will go away as we spend more time with 
 ## Some Unfounded Confidence
 After learning about HTML and CSS and using it for two weeks, I find myself looking at other websites and thinking about how it was put together. I never noticed it before, but many websites have similar parts to them like the menu bar at the top or the footer. The contents are different of course, but the way they are setup are similar across the board. I recently started to  think “I can do that,” even though I probably can’t, but I can probably get pretty close. One of our assignments for ICS 314 was to recreate a site of our choosing using Semantic UI. It was difficult to get through as mentioned before and there were many things wrong along the whole webpage, but in the end I like to think it came out pretty close. As we continue to learn about web design and UI Frameworks, I hope to perfect my craft and create better looking websites.
 
-<img class="ui large image" src="../images/origshopzoki2.jpg">
+<img class="ui large image" src="../images/origshopzoki2.png">
 Original Website
-<img class="ui large image" src="../images/myshopzoki2.jpg">
+<img class="ui large image" src="../images/myshopzoki2.png">
 My Recreation
