@@ -11,7 +11,7 @@ labels:
   - HTML & CSS
 ---
 
-<img class="ui centered large image" src="../images/semantic-ui-logo.png">
+<img class="ui center aligned large image" src="../images/semantic-ui-logo.png">
 
 ## So That’s What Semantic Means...
 
