@@ -12,12 +12,6 @@ labels:
   - HTML & CSS
 ---
 
-<img class="ui large image" src="../images/semantic-ui-logo.png">
-
-## From Trouble Free to Tribulations 
+## So That’s What Semantic Means...
 
 The definition of semantic is relating to meaning in language or logic. When used in talking, this means that you can say multiple things that have the same meaning but different contexts behind it. An example of this is saying “game over” and “your time is up.” Both statements mark the end of something but there are different feelings you get from them. All of this relates to Semantic UI because the goal of it is to help organize a website but there are many different ways to “say” it. Semantic UI is a front-end development framework that contains HTML components that help create organized layouts on webpages. In ICS 314, we have been using Semantic UI to recreate websites of local companies. After having hands-on experience for a week, I understand how it can be a helpful tool in making laying out webpages much easier. Grids, menus, and containers were used to divide up sites into sections and easily manipulate the items inside of those classes. Semantic UI also has positioning words to use in classes such as “right fitted” to align items exactly where you want them. These and many more classes make it simple to set up a good looking site efficiently. 
-
-
-<img class="ui large image" src="../images/myshopzoki2.png">
-<img class="ui large image" src="../images/origshopzoki2.png">
