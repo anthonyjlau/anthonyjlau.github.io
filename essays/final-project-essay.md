@@ -17,7 +17,7 @@ The online video game space is vast and you can meet many new people from all ac
 
 ## Mockup Page Ideas
 
-The navbar would include a home button, a filter for casual or competitive, and a login/ register dropdown. Within the casual and competitive pages, there would be an additional search filter so users can search for a specific game. The page would be populated with cards that show information about another user. It would show their name, username, email, what games they play, whether they play that game casually or competitively, and the amount of recomendations that user has. This information is collected when a user creates their profile 
+The navbar would include a home button, a filter for casual or competitive, and a login/ register dropdown. Within the casual and competitive pages, there would be an additional search filter so users can search for a specific game. The page would be populated with cards that show information about another user. It would show their name, username, email, what games they play, whether they play that game casually or competitively, and the amount of recomendations that user has. This information is collected when a user creates their profile.
 
 ## Use Case Ideas
 
