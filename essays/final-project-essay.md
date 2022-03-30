@@ -9,7 +9,7 @@ labels:
 ---
 Authors: Anthony Lau, Justin Jandoc
 
-
+<img class="ui large image" src="../images/c9teammates.jpg">
 
 ## Alone No Longer
 
