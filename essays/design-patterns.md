@@ -8,7 +8,8 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui large image" src="../images/eslintlogo.png">
+<img class="ui large image" src="../images/gof.jpg">
+The 'Gang of Four' members
 
 ## Design Patterns and Its Cooler but Dangerous Enemy, Antipatterns
 
