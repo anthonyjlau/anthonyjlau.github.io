@@ -29,22 +29,27 @@
   },
   "interests": [
     {
-      "name": "weightlifting",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "video games",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Video Games",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Web Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Weightlifting",
       "keywords": [
       ]
     }
@@ -59,7 +64,10 @@
         "Java",
         "HTML",
         "CSS",
-        "JavaScript"
+        "JavaScript",
+        "Semantic UI",
+        "React",
+        "Meteor",
       ]
     },
     {
@@ -68,7 +76,6 @@
       "keywords": [
         "Git/GitHub",
         "Vi",
-        "g++",
         "IntelliJ",
         "Digital Ocean"
       ]
@@ -100,7 +107,15 @@
       "website": "",
       "startDate": "2019-15-11",
       "endDate": "2020-7-20",
-      "summary": "Cleaned tables and other miscellaneous tasks"
+      "summary": "Cleaned, set up, and delivered food to 35 tables throughout the restaurant. Assisted in cleaning, setting up, and closing down the restaurant. Worked in a diverse team with multiple ethnicities and varying age ranges."
+    },
+    {
+      "company": "CVS Pharmacy",
+      "position": "Sales Associater",
+      "website": "",
+      "startDate": "2021-30-06",
+      "endDate": "2021-11-10",
+      "summary": "Operated a POS cash register and maintained an accurate count drawer. Helped customers with searching for select items and checking prices."
     }
   ],
   "awards": [
