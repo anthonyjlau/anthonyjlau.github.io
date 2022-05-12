@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "anthonyjlau",
-        "url": "https://anthonyjlau.github.io"
+        "url": "https://https://github.com/anthonyjlau"
       },
       {
         "network": "linkedin",
@@ -56,7 +56,10 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "HTML",
+        "CSS",
+        "JavaScript"
       ]
     },
     {
@@ -65,7 +68,9 @@
       "keywords": [
         "Git/GitHub",
         "Vi",
-        "g++"
+        "g++",
+        "IntelliJ",
+        "Digital Ocean"
       ]
     }
   ],
@@ -82,7 +87,9 @@
         "ICS 211",
         "ICS 212",
         "MATH 301",
-        "MATH 372"
+        "MATH 372",
+        "ICS 311",
+        "ICS 314"
       ]
     }
   ],
@@ -99,7 +106,7 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2021",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
