@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "UH Manoa Video Game Teammate Finder"
 date: 2022-03-29
 labels:
