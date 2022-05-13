@@ -10,7 +10,7 @@ labels:
   - Ethics
 ---
 
-<img class="ui large image" src="../images/smartquestions.png">
+<img class="ui large image" src="../images/softwareengi2.jpg">
 
 ## The End of the Beginning
 It has been about 4 months since I started going on my software engineering adventure. When I first started this class, I wasn’t sure what it even meant to be a software engineer. After going through ICS 314, an introductory course to software engineering, I can now say that I have a firm grasp of the topic. From the course, I learned that a major part of software engineering is web application development. We learned how to build, design, troubleshoot, and deploy a website throughout the course. However, there is much more to software engineering than just web applications. There are also concepts that revolve around working in a team such as configuration management and design patterns. Some concepts that I would like to talk about are development environments, coding standards, and ethics in software engineering.
