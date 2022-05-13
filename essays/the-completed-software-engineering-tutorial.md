@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Semester In Review for Software Engineering
+title: The Completed Software Engineering Tutorial
 date: 2022-05-13
 labels:
   - Software Engineering
