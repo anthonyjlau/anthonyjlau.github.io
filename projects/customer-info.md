@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true
 image: images/c++logo.png
 title: Customer Information Database
 permalink: projects/customer-info
