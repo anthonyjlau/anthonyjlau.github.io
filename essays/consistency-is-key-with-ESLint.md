@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Consistency Is Key With ESLint
 date: 2022-02-10
+draft: true
 labels:
   - ESLint
   - Javascript
