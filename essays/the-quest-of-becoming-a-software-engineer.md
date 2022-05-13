@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: The Quest of Becoming a Software Engineer
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
