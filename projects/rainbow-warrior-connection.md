@@ -24,7 +24,7 @@ On the website, students can create profiles and share information about themsel
 You can also click on the cards of students to bring up more information about them and you can click on company cards to bring up their job listings as well as more information.
 
 <img class="ui image" src="../images/rwcstudentprofile.png">
-<img class="ui image" src="../images/rwccompanyprofile.png">
+<img class="ui image" src="../images/rwcompanyprofile.png">
 
 ## Doing My Part
 For this project, I mostly worked on pages that use the 'Student' collection. I created the student home page modeled after the Bowfolios user home page and I worked on the student profile page by designing a layout for the page and connecting the 'Interests' collection to that page. Making the cards clickable was also something I did which required moving components around. Lastly, I helped with cleaning up the project and checking for ESLint errors.
@@ -34,4 +34,5 @@ For this project, I mostly worked on pages that use the 'Student' collection. I 
 From this project, I learned about how to work in a team environment. I learned about Github 'etiquette' such as standardizing branch names and how pull requests work. Communication was an important skill that we worked on throughout the project. I also learned a new way of working through a project called issue driven project management where issues that need to be worked on are put on a public board. This project also taught me how to deploy a website to the internet. Lastly, I got to strengthen my knowledge of Meteor and code writing in general. These are some very important skills that are extremly practical as I continue my computer science journey.
 
 For more information about the Rainbow Warrior Connection visit [here](https://rainbowwarriorconnection.github.io/).
+
 This is the Github repository for the website: <a href="https://github.com/rainbowwarriorconnection/rainbowwarriorconnection"><i class="large github icon"></i>rainbowwarriorconnection/rainbowwarriorconnection</a>
