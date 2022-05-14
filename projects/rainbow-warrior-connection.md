@@ -35,4 +35,4 @@ From this project, I learned about how to work in a team environment. I learned 
 
 For more information about the Rainbow Warrior Connection visit [here](https://rainbowwarriorconnection.github.io/).
 
-This is the Github repository for the website: <a href="https://github.com/rainbowwarriorconnection/rainbowwarriorconnection"><i class="large github icon"></i>rainbowwarriorconnection/rainbowwarriorconnection</a>
+This is the Github repository for the website: <a href="https://github.com/rainbowwarriorconnection/rainbowwarriorconnection"><i class="github icon"></i></i>rainbowwarriorconnection/rainbowwarriorconnection</a>
