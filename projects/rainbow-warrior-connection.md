@@ -18,13 +18,11 @@ For our final project in ICS 314, I worked in a team to create the [Rainbow Warr
 
 On the website, students can create profiles and share information about themselves and what interests they have for a job. Companies are also able to create profiles where they can share descriptions about their company and post job listings. These profiles are then put on the "Browse Students" and "Browse Companies" pages where people can look through the existing profiles of other students or companies.
 
-<img class="ui image" src="../images/rwcstudents.png">
 <img class="ui image" src="../images/rwccompanies.png">
 
 You can also click on the cards of students to bring up more information about them and you can click on company cards to bring up their job listings as well as more information.
 
 <img class="ui image" src="../images/rwcstudentprofile.png">
-<img class="ui image" src="../images/rwcompanyprofile.png">
 
 ## Doing My Part
 For this project, I mostly worked on pages that use the 'Student' collection. I created the student home page modeled after the Bowfolios user home page and I worked on the student profile page by designing a layout for the page and connecting the 'Interests' collection to that page. Making the cards clickable was also something I did which required moving components around. Lastly, I helped with cleaning up the project and checking for ESLint errors.
