@@ -65,7 +65,6 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "Semantic UI",
         "React",
         "Meteor",
       ]
@@ -76,8 +75,7 @@
       "keywords": [
         "Git/GitHub",
         "Vi",
-        "IntelliJ",
-        "Digital Ocean"
+        "IntelliJ"
       ]
     }
   ],
@@ -120,10 +118,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2021",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "6 Time Dean's List Awardee",
+      "date": "2020 - 2023",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earned a 3.5 GPA for the semester as a full time student."
     }
   ]
 }
